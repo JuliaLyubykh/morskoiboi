@@ -1,0 +1,9 @@
+﻿  morskoiboi.cpp
+C:\Users\Zezerona\source\repos\morskoiboi\morskoiboi\morskoiboi.cpp(28,14): warning C4838:  преобразование из "int" в "SHORT" требует сужающего преобразования
+C:\Users\Zezerona\source\repos\morskoiboi\morskoiboi\morskoiboi.cpp(28,17): warning C4838:  преобразование из "int" в "SHORT" требует сужающего преобразования
+C:\Users\Zezerona\source\repos\morskoiboi\morskoiboi\morskoiboi.cpp(33,9): warning C4101:  v: неиспользованная локальная переменная
+C:\Users\Zezerona\source\repos\morskoiboi\morskoiboi\morskoiboi.cpp(1962,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Zezerona\source\repos\morskoiboi\morskoiboi\morskoiboi.cpp(2513,90): warning C4101:  z2: неиспользованная локальная переменная
+C:\Users\Zezerona\source\repos\morskoiboi\morskoiboi\morskoiboi.cpp(2513,94): warning C4101:  t1: неиспользованная локальная переменная
+C:\Users\Zezerona\source\repos\morskoiboi\morskoiboi\morskoiboi.cpp(2598,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+  morskoiboi.vcxproj -> C:\Users\Zezerona\source\repos\morskoiboi\Debug\morskoiboi.exe
